@@ -168,7 +168,7 @@ class CertificateProcessor:
     def _generate_search_summary(self, results: list, query: str, search_type: str) -> str:
         """生成搜索结果摘要"""
         if not results:
-            return f"未找到与"{query}"相关的证书。"
+            return f"未找到与「{query}」的证书。"
 
         summary = f"找到 {len(results)} 个相关证书：\n\n"
 
