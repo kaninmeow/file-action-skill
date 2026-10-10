@@ -1,0 +1,67 @@
+{
+  "file_001": {
+    "filename": "优秀学生奖学金证书.jpg",
+    "path": "files/2024/05/优秀学生奖学金证书.jpg",
+    "type": "获奖证书",
+    "uploadDate": "2024-10-10T10:30:00Z",
+    "awardDate": "2024-05-15",
+    "awardee": "张三",
+    "issuer": "XX大学",
+    "awardName": "优秀学生奖学金",
+    "description": "XX大学优秀学生奖学金证书，授予张三同学",
+    "certNumber": "XXU20240515001",
+    "tags": ["获奖证书", "张三", "XX大学", "2024-05-15", "优秀学生奖学金"]
+  },
+  "file_002": {
+    "filename": "数学竞赛一等奖证书.jpg",
+    "path": "files/2023/10/数学竞赛一等奖证书.jpg",
+    "type": "获奖证书",
+    "uploadDate": "2024-10-10T10:35:00Z",
+    "awardDate": "2023-10-20",
+    "awardee": "张三",
+    "issuer": "XX省教育厅",
+    "awardName": "数学竞赛一等奖",
+    "description": "XX省数学竞赛一等奖证书，授予张三同学",
+    "certNumber": "XXEDU20231020001",
+    "tags": ["获奖证书", "张三", "XX省教育厅", "2023-10-20", "数学竞赛一等奖"]
+  },
+  "file_003": {
+    "filename": "英语六级证书.jpg",
+    "path": "files/2024/06/英语六级证书.jpg",
+    "type": "资格证书",
+    "uploadDate": "2024-10-10T10:40:00Z",
+    "awardDate": "2024-06-15",
+    "awardee": "张三",
+    "issuer": "教育部考试中心",
+    "awardName": "大学英语六级考试",
+    "description": "大学英语六级考试成绩报告单",
+    "certNumber": "CET620240615001",
+    "tags": ["资格证书", "张三", "教育部考试中心", "2024-06-15", "大学英语六级考试"]
+  },
+  "file_004": {
+    "filename": "毕业证书.jpg",
+    "path": "files/2024/06/毕业证书.jpg",
+    "type": "毕业证书",
+    "uploadDate": "2024-10-10T10:45:00Z",
+    "awardDate": "2024-06-30",
+    "awardee": "张三",
+    "issuer": "XX大学",
+    "awardName": "本科毕业证书",
+    "description": "XX大学本科毕业证书，授予张三同学",
+    "certNumber": "XXU20240630001",
+    "tags": ["毕业证书", "张三", "XX大学", "2024-06-30", "本科毕业证书"]
+  },
+  "file_005": {
+    "filename": "优秀毕业生荣誉证书.jpg",
+    "path": "files/2024/06/优秀毕业生荣誉证书.jpg",
+    "type": "荣誉证书",
+    "uploadDate": "2024-10-10T10:50:00Z",
+    "awardDate": "2024-06-25",
+    "awardee": "张三",
+    "issuer": "XX大学",
+    "awardName": "优秀毕业生",
+    "description": "XX大学优秀毕业生荣誉证书，授予张三同学",
+    "certNumber": "XXU20240625001",
+    "tags": ["荣誉证书", "张三", "XX大学", "2024-06-25", "优秀毕业生"]
+  }
+}
