@@ -282,7 +282,7 @@ MIT License
 如有问题或建议，请通过以下方式联系：
 
 - 提交 Issue 到 GitHub 仓库
-- 发送邮件至支持邮箱
+- 发送邮件至支持邮箱：sunqingdong0318@foxmail.com
 
 ---
 
