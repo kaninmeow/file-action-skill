@@ -15,14 +15,7 @@
 
 ### 1. 安装技能
 
-```bash
-# 克隆或下载技能到本地
-git clone <repository-url>
-cd certificate-manager
-
-# 设置环境变量
-export STORAGE_DIR=/path/to/your/storage/directory
-```
+直接将本项目地址发送给openclaw，并且告诉它帮我安装这个技能
 
 ### 2. 基本使用
 
